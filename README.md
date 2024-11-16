@@ -1,5 +1,6 @@
 Tutorials and details for using the codes and scripts.
 
+The enviornment used for running the python codes can be reproduced by metrics.yml file.
 
 ## For Ising Model(microstates)(in directory ising_codes)
 a. Simulate the ising model. Run the bash script sbatch monte_carlo_microstates.sh which will run the python file monte_carlo_microstates.py
